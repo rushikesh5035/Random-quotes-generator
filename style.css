@@ -78,3 +78,8 @@ body {
   justify-content: center;
   border-top: 1px solid #4f1787;
 }
+
+.button button:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 8px rgb(125, 23, 214);
+}
